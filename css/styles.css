@@ -124,35 +124,35 @@ label.color-6 {
   opacity: 1;
   animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
-.img-wrap.chair-2 {
+.img-wrap.Thar-2 {
   background-image: url("../images/Thar2.png");
 }
 .for-color-2:checked ~ .img-wrap.Thar-2 {
   opacity: 1;
   animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
-.img-wrap.chair-3 {
+.img-wrap.Thar-3 {
   background-image: url("../images/Thar3.png");
 }
 .for-color-3:checked ~ .img-wrap.Thar-3 {
   opacity: 1;
   animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
-.img-wrap.chair-4 {
+.img-wrap.Thar-4 {
   background-image: url("../images/Thar4.png");
 }
 .for-color-4:checked ~ .img-wrap.Thar-4 {
   opacity: 1;
   animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
-.img-wrap.chair-5 {
+.img-wrap.Thar-5 {
   background-image: url("../images/Thar5.png");
 }
 .for-color-5:checked ~ .img-wrap.Thar-5 {
   opacity: 1;
   animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
-.img-wrap.chair-6 {
+.img-wrap.Thar-6 {
   background-image: url("../images/Thar6.png");
 }
 .for-color-6:checked ~ .img-wrap.Thar-6 {
@@ -187,40 +187,40 @@ label.color-6 {
   height: 100%;
   display: block;
   z-index: 1;
-  background-image: linear-gradient(196deg, #d46049, #ed5109);
+  background-image: linear-gradient(196deg, #c1462d, #ce968b);
   transition: all 250ms linear;
   transition-delay: 300ms;
 }
-.back-color.chair-2 {
-  background-image: linear-gradient(196deg, #21d65a, #21d65a);
+.back-color.Thar-2 {
+  background-image: linear-gradient(196deg, #21d65a, #8e8d8d);
   opacity: 0;
 }
 .for-color-2:checked ~ .back-color.Thar-2 {
   opacity: 1;
 }
-.back-color.chair-3 {
-  background-image: linear-gradient(196deg, #5f5f5f, #888888);
+.back-color.Thar-3 {
+  background-image: linear-gradient(196deg, #636363, #d0d0d0);
   opacity: 0;
 }
 .for-color-3:checked ~ .back-color.Thar-3 {
   opacity: 1;
 }
-.back-color.chair-4 {
-  background-image: linear-gradient(196deg, #97afc3, #ffffff);
+.back-color.Thar-4 {
+  background-image: linear-gradient(196deg, #5db5d7, #d0d0d0);
   opacity: 0;
 }
 .for-color-4:checked ~ .back-color.Thar-4 {
   opacity: 1;
 }
-.back-color.chair-5 {
-  background-image: linear-gradient(196deg, #d9aa42, #e6a10e);
+.back-color.Thar-5 {
+  background-image: linear-gradient(196deg, #d9aa42, #bab9b6);
   opacity: 0;
 }
 .for-color-5:checked ~ .back-color.Thar-5 {
   opacity: 1;
 }
-.back-color.chair-6 {
-  background-image: linear-gradient(196deg, #f449b6, #838786);
+.back-color.Thar-6 {
+  background-image: linear-gradient(196deg, #f449b6, #edadd5);
   opacity: 0;
 }
 .for-color-6:checked ~ .back-color.Thar-6 {
